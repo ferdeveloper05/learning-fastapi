@@ -1,6 +1,6 @@
 from fastapi import FastAPI
 
-app = FastAPI()
+app = FastAPI(title="Este es el Titulo")
 
 @app.get("/")
 def hello(): 
