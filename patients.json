@@ -1,0 +1,52 @@
+{ 
+  "P001" :  { 
+    "nombre" :  "Rahul Deshmukh", 
+    "ciudad" :  "Hyderabad", 
+    "edad" :  26, 
+    "género" :  "masculino", 
+    "altura" :  1.72, 
+    "peso" :  68, 
+    "IMC" :  22.99 , 
+    "veredicto" :  "Saludable" 
+  } , 
+  "P002" :  { 
+    "nombre" :  "Meera Joshi", 
+    "ciudad" :  "Jaipur", 
+    "edad" :  31, 
+    "género" :  "femenino", 
+    "altura" :  1.58, 
+    "peso" :  82, 
+    "IMC" :  32.85, 
+    "veredicto" :  "Obeso" 
+  } , 
+  "P003" :  { 
+    "nombre" :  "Karan Malhotra", 
+    "ciudad" :  "Chandigarh", 
+    "edad" :  24, 
+    "género" :  "masculino", 
+    "altura" :  1.81, 
+    "peso" :  59, 
+    "IMC" :  18.01, 
+    "veredicto" :  "Bajo peso" 
+  } , 
+  "P004" :  { 
+    "nombre" :  "Aditi Rao", 
+    "ciudad" :  "Chennai", 
+    "edad" :  37, 
+    "género" :  "femenino", 
+    "altura" :  1.67, 
+    "peso" :  72, 
+    "IMC" :  25.82, 
+    "veredicto" :  "Sobrepeso" 
+  } , 
+  "P005" :  { 
+    "nombre" :  "Vikram Singh",
+    "ciudad" :  "Lucknow", 
+    "edad" :  45, 
+    "género" :  "masculino", 
+    "altura" :  1.74, 
+    "peso" :  88, 
+    "IMC" :  29.07, 
+    "veredicto" :  "Sobrepeso"
+  } 
+}
