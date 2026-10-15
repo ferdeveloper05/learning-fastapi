@@ -21,3 +21,10 @@ def about():
 def view():  
     data = load_data()
     return data
+
+@app.get("/patient/{id}")
+def get_patient(id:str): 
+    data = load_data()
+    
+    if id in data: 
+        return data[id]
